@@ -1,0 +1,6 @@
+.idea/
+code/data_science/.ipynb_checkpoints
+code/.ipynb_checkpoints
+__init__.py
+__pycache__/
+nohup.out

@@ -1,0 +1,8 @@
+nltk
+flask
+pandas
+numpy
+sklearn
+gensim
+imblearn
+num2words
