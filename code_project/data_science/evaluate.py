@@ -59,4 +59,9 @@ def evaluate_model(display=True):
 
 
 if __name__ == '__main__':
+<<<<<<< HEAD
     evaluate_model(display=True)
+=======
+
+    evaluate_model(display=True)
+>>>>>>> 4c546f6d2aa77995a59aa48f8a697f9c1961488b
