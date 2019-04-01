@@ -59,5 +59,4 @@ def evaluate_model(display=True):
 
 
 if __name__ == '__main__':
-
     evaluate_model(display=True)
