@@ -2,9 +2,7 @@
 
 _Groupe 28 :_  
 - _Thomas Bellec_
-- _Louise Picard_
-- _Erwan de Kergaradec_
-- _Gabrielle Rappaport_
+- _Alix Mallard_
 
 ### Objectif
 
