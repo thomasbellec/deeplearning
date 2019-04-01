@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <title>Sentiment Analysis</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/bulma/0.7.2/css/bulma.min.css">
+    <link href="{{ url_for('static', filename='result.css') }}" rel="stylesheet" type="text/css"/>
+</head>
+<body>
+    <nav id="navbar" class="navbar has-shadow is-spaced">
+        <div class="container">
+            <div class="brand" style="vertical-align: center;">
+                <p class="title is-4"><img src="{{ url_for('static', filename='brand.png') }}" height=140 width=140/>
+                    : devinez les sentiments qui se cachent derrière ce que vous dites...
+                </p>
+            </div>
+        </div>
+    </nav>
+
+    <div class="content new_search" align="center">
+        <a href="{{ url_for('index') }}">Faire une nouvelle recherche</a>
+    </div>
+
+    <div class="columns">
+        <div class="column result">
+            <p class="title" align="center">{{ sentence }}</p>
+
+            <div class="smiley" align="center">
+                {% if sentiment == 'no_emotion' %}
+                    <p>Nous avons trouvé aucun sentiment dans cette phrase !</p>
+                {% elif sentiment == 'joy' %}
+                    <img src="{{ url_for('static', filename='joy.png') }}" align="center">
+                {% elif sentiment == 'surprise' %}
+                    <img src="{{ url_for('static', filename='surprise.png') }}" align="center">
+                {% elif sentiment == 'anger' %}
+                    <img src="{{ url_for('static', filename='anger.png') }}" align="center">
+                {% elif sentiment == 'disgust' %}
+                    <img src="{{ url_for('static', filename='disgust.png') }}" align="center">
+                {% elif sentiment == 'sadness' %}
+                    <img src="{{ url_for('static', filename='sadness.png') }}" align="center">
+                {% elif sentiment == 'fear' %}
+                    <img src="{{ url_for('static', filename='fear.png') }}" align="center">
+                {% endif %}
+            </div>
+        </div>
+    </div>
+</body>
+</html>

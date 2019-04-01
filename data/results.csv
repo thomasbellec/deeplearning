@@ -1,0 +1,283 @@
+phrase,nlp,emotion,prediction
+Il est triste de se dire que KH3 est le dernier Kingdom Hearts...,"['trist', 'dir', 'kh3', 'derni', 'kingdom', 'heart']",sadness,sadness
+Aujourd'hui pour moi tout va mal ! ,"['aujourd', 'hui', 'tout', 'va', 'mal']",sadness,sadness
+il fait beau,"['fait', 'beau']",joy,disgust
+tu me parles plus je suis triste,"['parl', 'plus', 'trist']",sadness,joy
+ j’espère être encore de ce monde pour te parler de mes prochaines peines et de mes soucis.,"['esper', 'etre', 'encor', 'mond', 'parl', 'prochain', 'pein', 'souc']",sadness,sadness
+Maintenant nous allons tous mourir suite à la terrible épidémie.,"['mainten', 'allon', 'tous', 'mour', 'suit', 'a', 'terribl', 'epidem']",sadness,surprise
+"Deux shorts d'ici en nomination aux Oscars2019 , mais on a pas gagnés... ","['deux', 'short', 'ici', 'nomin', 'oscars2019', 'a', 'pas', 'gagn']",sadness,fear
+J'ai envie de pleurer,"['envi', 'pleur']",sadness,sadness
+je pleure,['pleur'],sadness,sadness
+nous perdons un grand Homme,"['perdon', 'grand', 'homm']",sadness,no_emotion
+Les mots blessent vous savez ,"['le', 'mot', 'blessent', 'sav']",sadness,joy
+C'est difficile d'aider quelqu'un à traverser des moments difficiles quand personne n'est là pour vous aider,"['difficil', 'aid', 'quelqu', 'a', 'travers', 'moment', 'difficil', 'quand', 'person', 'n', 'aid']",sadness,sadness
+Toujours envie de poster des vidéos mais c'est difficile à cause de mon emploi du temps,"['toujour', 'envi', 'post', 'videos', 'difficil', 'a', 'caus', 'emploi', 'temp']",sadness,sadness
+J'adore cet endroit,"['ador', 'cet', 'endroit']",joy,surprise
+La croute est immonde,"['crout', 'immond']",disgust,disgust
+la texture était juste horrible,"['textur', 'etait', 'just', 'horribl']",disgust,disgust
+"Steve me l'a recommandé, je l'ai adoré","['stev', 'a', 'recommand', 'ador']",joy,surprise
+La sélection sur le menu était super et les prix aussi,"['select', 'menu', 'etait', 'sup', 'le', 'prix', 'auss']",joy,disgust
+Je suis en train de m'énerver,"['train', 'enerv']",anger,sadness
+honnêtement c'était assez mauvais,"['honnet', 'etait', 'assez', 'mauv']",disgust,disgust
+Les frites étaient bonnes aussi,"['le', 'frit', 'etaient', 'bon', 'auss']",joy,joy
+Le service était rapide et bien,"['servic', 'etait', 'rapid', 'bien']",joy,surprise
+A fuir,"['a', 'fuir']",disgust,disgust
+Le caissier fait le contraire de ce que je lui racontais et j'ai tout de même fini à payer beaucoup trop cher,"['caissi', 'fait', 'contrair', 'racont', 'tout', 'mem', 'fin', 'a', 'pai', 'beaucoup', 'trop', 'cher']",disgust,disgust
+J'étais dégouté j'étais sûr que c'était un cheveux,"['etais', 'degout', 'etais', 'etait', 'cheveux']",disgust,disgust
+j'étais choqué car aucun panneau n'indiquait paiement uniquement par cash,"['etais', 'choqu', 'car', 'aucun', 'panneau', 'n', 'indiqu', 'pai', 'uniqu', 'cash']",surprise,surprise
+Fortement recommandé,"['fort', 'recommand']",joy,no_emotion
+"La nourriture, incroyable !","['nourritur', 'incroi']",joy,surprise
+Je vais devoir faire attention en sortant,"['vais', 'devoir', 'fair', 'attent', 'sort']",fear,surprise
+J'ai l'impression qu'une secte est à la manoeuvre ,"['impress', 'sect', 'a', 'manoeuvr']",fear,no_emotion
+Si ils rajoutent Hanouna et Lalanne sur la photo je m’exile au Venezuela,"['si', 'il', 'rajoutent', 'hanoun', 'lalann', 'photo', 'exil', 'venezuel']",fear,surprise
+Il s'est écroulé d'un coup j'ai cru qu'il allait y passer,"['ecroul', 'coup', 'cru', 'allait', 'pass']",fear,fear
+Arrête je tremble encore.,"['arret', 'trembl', 'encor']",fear,surprise
+Je stresse j'attends les résultats depuis hier,"['stress', 'attend', 'le', 'resultat', 'depuis', 'hi']",fear,disgust
+Le service laisse à désirer,"['servic', 'laiss', 'a', 'desir']",disgust,sadness
+C'est les pires sushis que j'ai jamais mangé,"['le', 'pir', 'sush', 'jam', 'mang']",disgust,no_emotion
+Il est arrivé vraiment vite,"['arriv', 'vrai', 'vit']",surprise,joy
+Bobby et Borel ont renversé la situation tout d'un coup,"['bobby', 'borel', 'renvers', 'situat', 'tout', 'coup']",surprise,fear
+ah mais il devait venir finalement ?,"['ah', 'dev', 'ven', 'final']",surprise,surprise
+Je ne comprends toujours pas comment c'est possible,"['ne', 'comprend', 'toujour', 'pas', 'comment', 'possibl']",surprise,surprise
+Il a été agréablement surpris du cadeau,"['a', 'ete', 'agreabl', 'surpr', 'cadeau']",surprise,surprise
+Il aurait du me le rendre il y a longtemps,"['rendr', 'a', 'longtemp']",anger,anger
+Je suis furieux qu'il n'ait pas répondu à tout mes appels,"['furieux', 'n', 'pas', 'repondu', 'a', 'tout', 'appel']",anger,surprise
+Mais qu'est ce qu'il raconte il n'y connait rien !,"['racont', 'n', 'con', 'rien']",anger,disgust
+Arrête tout de suite,"['arret', 'tout', 'suit']",anger,surprise
+si le le revois ça va mal se passer entre nous,"['si', 'revois', 'ca', 'va', 'mal', 'pass', 'entre']",anger,sadness
+Ils commençait à sérieusement s'impatienter,"['il', 'commenc', 'a', 'serieux', 'impatient']",anger,anger
+Elle commencait à l'exaspérer ,"['commenc', 'a', 'exasper']",anger,anger
+Je me suis démené pour finir à temps mais il est si mauvais,"['demen', 'fin', 'a', 'temp', 'si', 'mauv']",anger,fear
+Le burger est littéralement dégoûtant,"['burg', 'litteral', 'degout']",disgust,disgust
+Le produit est arrivé abimé et en retard,"['produit', 'arriv', 'abim', 'retard']",anger,anger
+"J'ai vu le film et j'ai trouvé que c'était un bel effort, un bon message pour les enfants","['vu', 'film', 'trouv', 'etait', 'bel', 'effort', 'bon', 'messag', 'le', 'enfant']",joy,joy
+Même le talentueux Carrell n'a pas pu le sauver,"['mem', 'talentu', 'carrel', 'n', 'a', 'pas', 'pu', 'sauv']",disgust,fear
+"Le film est un succès, malgré que, ou grâce à, son très faible budget","['film', 'succ', 'malgr', 'grac', 'a', 'tre', 'faibl', 'budget']",surprise,disgust
+C'est un vrai classique,"['vrai', 'classiqu']",joy,joy
+C'était d'un ennui !,"['etait', 'ennui']",disgust,disgust
+Il n'a même pas été capable de faible le peu d'effort nécessaire,"['n', 'a', 'mem', 'pas', 'ete', 'capabl', 'faibl', 'peu', 'effort', 'necessair']",anger,disgust
+Mon poisson rouge est mort,"['poisson', 'roug', 'mort']",sadness,surprise
+Ca marche parfaitement,"['ca', 'march', 'parfait']",joy,no_emotion
+J'ai du enlever mes oreillettes et parler au téléphone,"['enlev', 'oreillet', 'parl', 'telephon']",anger,sadness
+Je n'ai pas été impressionné par la qualité de ce produit,"['n', 'pas', 'ete', 'impression', 'qualit', 'produit']",anger,surprise
+J'ai des doutes sur la date d'arrivée du produit,"['dout', 'dat', 'arrive', 'produit']",fear,fear
+Il risque de ne plus y avoir de places si nous nous y prenons trop tardivement,"['risqu', 'ne', 'plus', 'avoir', 'plac', 'si', 'prenon', 'trop', 'tardiv']",fear,joy
+J'en avais la chair de poule,"['chair', 'poul']",fear,disgust
+Il a failli se faire renverser par une voiture qui a grillé le feu rouge,"['a', 'faill', 'fair', 'renvers', 'voitur', 'a', 'grill', 'feu', 'roug']",fear,surprise
+Je ne pensais pas qu'il allait venir,"['ne', 'pens', 'pas', 'allait', 'ven']",surprise,fear
+La météo annonçait de la pluie mais il a finalement fait un temps superbe,"['meteo', 'annonc', 'plui', 'a', 'final', 'fait', 'temp', 'superb']",surprise,surprise
+j'étais persuadé d'avoir raté mais j'ai finalement été accepté !,"['etais', 'persuad', 'avoir', 'rat', 'final', 'ete', 'accept']",surprise,surprise
+La guerre en Syrie a déclenché une crise des réfugiés,"['guerr', 'syr', 'a', 'declench', 'cris', 'refug']",sadness,surprise
+Putain quelle journée de merde hier,"['putain', 'quel', 'journe', 'merd', 'hi']",anger,disgust
+La polémique n'en finit plus et le calme tarde à revenir,"['polem', 'n', 'fin', 'plus', 'calm', 'tard', 'a', 'reven']",sadness,joy
+Pourquoi faire cela ? C'est étrange,"['pourquoi', 'fair', 'cel', 'etrang']",surprise,surprise
+c’est toujours gratifiant. C’est un partenaire très fort.,"['toujour', 'gratifi', 'partenair', 'tre', 'fort']",joy,no_emotion
+Le rouge vous va à ravir,"['roug', 'va', 'a', 'rav']",joy,surprise
+Restez comme vous êtes :),"['rest', 'comm', 'ete']",joy,joy
+ il crie sa colère et refuse le #5ememandat de Bouteflika.,"['cri', 'coler', 'refus', '5ememandat', 'bouteflik']",anger,surprise
+"abat le système, abat un président inopérant, affaibli .","['abat', 'system', 'abat', 'president', 'inoper', 'affaibl']",disgust,disgust
+Cela a suscité beaucoup de réactions inappropriées,"['cel', 'a', 'suscit', 'beaucoup', 'reaction', 'inapproprie']",disgust,disgust
+tu es stupide ,['stupid'],disgust,disgust
+Les manifestants qui protègent la police,"['le', 'manifest', 'protegent', 'polic']",fear,fear
+"Merci à tous, à tous ceux qui sont là, peu importe l'heure, le temps, les résultats. Merci à vous. ","['merc', 'a', 'tous', 'a', 'tous', 'ceux', 'peu', 'import', 'heur', 'temp', 'le', 'resultat', 'merc', 'a']",joy,disgust
+Et on t’emmerde ,['emmerd'],anger,no_emotion
+Ton tatouage est incroyable !,"['tatouag', 'incroi']",surprise,surprise
+"""Le peuple veut en finir""","['peupl', 'veut', 'fin']",disgust,fear
+MERCI d'être là tous les jours pour m'accompagner dans cette quête sans fin !,"['merc', 'etre', 'tous', 'le', 'jour', 'accompagn', 'cet', 'quet', 'san', 'fin']",joy,fear
+"vous êtes doux, beaux, gentils, bienveillants, polis, classes !","['ete', 'doux', 'beau', 'gentil', 'bienveil', 'pol', 'class']",joy,surprise
+Et on t’emmerde ,['emmerd'],disgust,no_emotion
+ vous êtes une personne extraordinaire ,"['ete', 'person', 'extraordinair']",joy,surprise
+Marre de toutes ses journées à la con,"['marr', 'tout', 'journe', 'a', 'con']",anger,anger
+Quand on te fait un compliment à la sortie de chez le coiffeur ,"['quand', 'fait', 'compl', 'a', 'sort', 'chez', 'coiffeur']",joy,surprise
+Plus beau compliment au monde ,"['plus', 'beau', 'compl', 'mond']",joy,surprise
+"Merci la France de m’avoir ouvert vos bras, de m’accueillir, me protéger, et me donner des droits pour vivre libre. ","['merc', 'franc', 'avoir', 'ouvert', 'bras', 'accueil', 'proteg', 'don', 'droit', 'vivr', 'libr']",joy,joy
+Je déteste les tomates,"['detest', 'le', 'tomat']",disgust,disgust
+Il faut attendre maintenant,"['faut', 'attendr', 'mainten']",fear,surprise
+J'ai peur du noir,"['peur', 'noir']",fear,surprise
+J'adore marcher dans le sable,"['ador', 'march', 'sabl']",joy,surprise
+T'es vraiment la meilleure,"['vrai', 'meilleur']",joy,joy
+Je suis aux anges après avoir été au Maroc,"['ange', 'apre', 'avoir', 'ete', 'maroc']",joy,surprise
+"Devant ce serpent, il est devenu blême","['dev', 'serpent', 'devenu', 'blem']",fear,surprise
+Il est encore une fois sorti de ses gonds et a commencé à crier,"['encor', 'fois', 'sort', 'gond', 'a', 'commenc', 'a', 'cri']",anger,surprise
+Alors nos amis vous allez bien,"['alor', 'amis', 'allez', 'bien']",joy,joy
+Gloire à l'olympique de marseille,"['gloir', 'a', 'olymp', 'marseil']",joy,no_emotion
+"Je suis super surprise, félicitations","['sup', 'surpris', 'felicit']",surprise,surprise
+MAGNIFIQUE,['magnif'],joy,surprise
+hein ?,['hein'],surprise,no_emotion
+trop heureux ce soir,"['trop', 'heureux', 'soir']",joy,disgust
+Je vous souhaite une excellente soirée et à l’année prochaine ,"['souhait', 'excellent', 'soire', 'a', 'anne', 'prochain']",joy,surprise
+Comment osez vous ?,"['comment', 'osez']",surprise,no_emotion
+Vous devriez avoir honte,"['devr', 'avoir', 'hont']",disgust,sadness
+Peu importe le problème vient des journalistes,"['peu', 'import', 'problem', 'vient', 'journal']",anger,surprise
+Tension sur le plateau,"['tension', 'plateau']",anger,anger
+"Patrick Cohen, l’homme indigné, ramené à son statut de supplétif macroniste. ","['patrick', 'cohen', 'homm', 'indign', 'ramen', 'a', 'statut', 'supplet', 'macron']",disgust,disgust
+Je suis choqué,['choqu'],surprise,surprise
+soutien total à toute l'équipe,"['soutien', 'total', 'a', 'tout', 'equip']",joy,no_emotion
+Où va le monde ?,"['va', 'mond']",fear,no_emotion
+Dupont-Aignan en pleine diffamation tranquille contre Patrick Cohen,"['dupont', 'aignan', 'plein', 'diffam', 'tranquill', 'contr', 'patrick', 'cohen']",disgust,anger
+C'est du délire tout cela,"['delir', 'tout', 'cel']",disgust,anger
+dehors !!,['dehor'],anger,no_emotion
+grand guignol,"['grand', 'guignol']",disgust,no_emotion
+Ras le bol de lui !,"['ras', 'bol']",anger,no_emotion
+Un imitation …. Surprenante,"['imit', 'surpren']",surprise,surprise
+émue aux larmes,"['emu', 'larm']",sadness,disgust
+Lucchini totalement ébloui par Maomi Campbell,"['lucchin', 'total', 'eblou', 'maom', 'campbel']",joy,anger
+elle est vraiment époustouflante ! ,"['vrai', 'epoustoufl']",joy,no_emotion
+il y a une urgence,"['a', 'urgenc']",fear,sadness
+La menace terroriste est omniprésente,"['menac', 'terror', 'omnipresent']",fear,surprise
+Quel dégât !,"['quel', 'degat']",disgust,anger
+Bravo aux élèves,"['bravo', 'elev']",joy,no_emotion
+Je n'en peux plus des horreurs de ce monde ! ,"['n', 'peux', 'plus', 'horreur', 'mond']",disgust,disgust
+Le climat actuel est glaçant,"['climat', 'actuel', 'glac']",fear,surprise
+Cela fait froid dans le dos,"['cel', 'fait', 'froid', 'dos']",fear,sadness
+Très bonne nouvelle pour tout ceux qui luttent pour un meilleur accès à l'eau,"['tre', 'bon', 'nouvel', 'tout', 'ceux', 'luttent', 'meilleur', 'acce', 'a', 'eau']",joy,joy
+Quelle tristesse …,"['quel', 'tristess']",sadness,fear
+"Quel dommage, il est parti trop tôt","['quel', 'dommag', 'part', 'trop', 'tot']",sadness,joy
+C'est une bien triste nouvelle que j'apprends,"['bien', 'trist', 'nouvel', 'apprend']",sadness,joy
+Sincères condoléances,"['sincer', 'condole']",sadness,surprise
+Nos pensées sont avec toi en ces jours difficiles,"['pense', 'jour', 'difficil']",sadness,sadness
+Je vous souhaite bon courage,"['souhait', 'bon', 'courag']",sadness,surprise
+C'est avec une grande émotion que j'ai appris cette très triste nouvelle,"['grand', 'emot', 'appris', 'cet', 'tre', 'trist', 'nouvel']",sadness,fear
+Ce stack est vraiment savoureux,"['stack', 'vrai', 'savour']",joy,joy
+"La rue est vraiment incertaine, mieux vaut faire attention","['ru', 'vrai', 'incertain', 'mieux', 'vaut', 'fair', 'attent']",fear,fear
+Quel secret ! Comment le deviner ?,"['quel', 'secret', 'comment', 'devin']",surprise,surprise
+"C'est arrivé si vite, quelle surprise !","['arriv', 'si', 'vit', 'quel', 'surpris']",surprise,surprise
+Mais non ? Comment cela ?,"['non', 'comment', 'cel']",surprise,sadness
+imagine ca il y a dix ans,"['imagin', 'ca', 'a', 'dix', 'an']",surprise,no_emotion
+Un documentaire glaçant,"['documentair', 'glac']",fear,sadness
+"Selon lui, les journalistes sont tous pourris","['selon', 'le', 'journal', 'tous', 'pourr']",digust,sadness
+"la tête, ça va pas","['tet', 'ca', 'va', 'pas']",disgust,fear
+Quel pays ! ,"['quel', 'pay']",surprise,joy
+"On veut qu'il dégage, tout simplement","['veut', 'degag', 'tout', 'simpl']",anger,no_emotion
+Les élections en Algérie sont une mascarade,"['le', 'elect', 'alger', 'mascarad']",disgust,surprise
+"Chaque fois que je rentre chez moi, j'ai vraiment peur que quelque chose m'arrive","['chaqu', 'fois', 'rentr', 'chez', 'vrai', 'peur', 'quelqu', 'chos', 'arriv']",fear,surprise
+Et pourquoi pas ?,"['pourquoi', 'pas']",surprise,fear
+Pourquoi a t il abandonné son chien ?,"['pourquoi', 'a', 'abandon', 'chien']",sadness,fear
+elle était euphorique,"['etait', 'euphor']",joy,no_emotion
+Salut Fidel ! Dit-elle à l'animal qui lui léchait les mains,"['salut', 'fidel', 'dit', 'a', 'animal', 'lech', 'le', 'main']",joy,surprise
+Il est dépité,['depit'],sadness,no_emotion
+Personne ne mérite de perdre sa femme,"['person', 'ne', 'merit', 'perdr', 'femm']",sadness,surprise
+Reculez non de Dieu ! ,"['recul', 'non', 'dieu']",anger,surprise
+C'est le quatrième depuis mardi putain !,"['quatriem', 'depuis', 'mard', 'putain']",anger,disgust
+Comment voulez vous qu'on s'en sorte si vous détruisez tout? ,"['comment', 'voul', 'sort', 'si', 'detruis', 'tout']",anger,surprise
+Mais qu'est ce que tu fous ?,['fous'],anger,no_emotion
+"Popper poussa ses hommes vers l'arrière, ils allaient bientôt tirer","['popp', 'pouss', 'homm', 'ver', 'arrier', 'il', 'allaient', 'bientot', 'tir']",fear,surprise
+Le prêtre était hébété au milieu du chaos,"['pretr', 'etait', 'hebet', 'milieu', 'chaos']",fear,surprise
+Ses hommes étaient mort de trouille,"['homm', 'etaient', 'mort', 'trouill']",fear,sadness
+"Le jet de gaz aspergea les civils, aui se dispersèrent en les couvrant d'insultes","['jet', 'gaz', 'asperg', 'le', 'civil', 'aui', 'disperserent', 'le', 'couvr', 'insult']",anger,disgust
+"Elle ne filmait pas la scène d'émeutes mais le cadavre d'Enrique, en gros plan…","['ne', 'film', 'pas', 'scen', 'emeut', 'cadavr', 'enriqu', 'gros', 'plan']",sadness,anger
+Il ne s'y attendait pas du tout,"['ne', 'attend', 'pas', 'tout']",surprise,fear
+"Vous êtes répugnants, allez vous changer ! ","['ete', 'repugn', 'allez', 'chang']",disgust,fear
+L'ambiance était au rendez vous,"['ambianc', 'etait', 'rend']",joy,no_emotion
+Les hélicoptères de la police vrombissaient dans le ciel,"['le', 'helicopter', 'polic', 'vromb', 'ciel']",fear,surprise
+Gabriela appréhendait le moment ou ils allaient se revoir,"['gabriel', 'apprehend', 'moment', 'il', 'allaient', 'revoir']",fear,anger
+Ils devaient emprunter énormément et sans garantie,"['il', 'dev', 'emprunt', 'enorm', 'san', 'garant']",fear,sadness
+"Malgré les risques et les menaces, elle avait tout filmé","['malgr', 'le', 'risqu', 'le', 'menac', 'tout', 'film']",fear,fear
+Elle fuyait parmi les cris et les menaces,"['fui', 'parm', 'le', 'cris', 'le', 'menac']",fear,surprise
+Elles étaient deux réfugiées trempées des pieds à la tête quand la guerre hurlait dehors,"['elle', 'etaient', 'deux', 'refugie', 'trempe', 'pied', 'a', 'tet', 'quand', 'guerr', 'hurl', 'dehor']",fear,anger
+Chaque seconde en paraissait mille jusqu'à ce qu'enfin le danger s'éloigne,"['chaqu', 'second', 'paraiss', 'mill', 'jusqu', 'a', 'enfin', 'dang', 'eloign']",fear,surprise
+"putain je passe encore 2h sur une connerie bordel, j'arrive pas à pull ça me gave","['putain', 'pass', 'encor', '2h', 'conner', 'bordel', 'arriv', 'pas', 'a', 'pull', 'ca', 'gav']",anger,joy
+Non mais c'est pas possible d'être aussi nul !,"['non', 'pas', 'possibl', 'etre', 'auss', 'nul']",anger,fear
+Benoit Hamon veut créer la surprise aux européennes,"['benoit', 'hamon', 'veut', 'cre', 'surpris', 'europeen']",surprise,surprise
+Soirée en solo avant weekend surprise ! J'ai hâte !,"['soire', 'solo', 'avant', 'weekend', 'surpris', 'hat']",surprise,surprise
+"Je vais bientôt vous faire une annonce, soyez prêts !","['vais', 'bientot', 'fair', 'annonc', 'pret']",surprise,no_emotion
+"On ne sait pas vraiment quoi attendre de lui, on verra bien ","['ne', 'sait', 'pas', 'vrai', 'quoi', 'attendr', 'verr', 'bien']",surprise,surprise
+Je vais leur rendre visite ils ne s'y attendent pas du tout,"['vais', 'rendr', 'visit', 'il', 'ne', 'attendent', 'pas', 'tout']",surprise,anger
+C'était vraiment quelque chose d'innatendu,"['etait', 'vrai', 'quelqu', 'chos', 'innatendu']",surprise,anger
+"On a plein de cadeaux pour vous, vous allez voir","['a', 'plein', 'cadeau', 'allez', 'voir']",surprise,surprise
+"Nouvelle édition, venez découvrir ce qu'il se cache dedans","['nouvel', 'edit', 'ven', 'decouvr', 'cach', 'dedan']",surprise,fear
+Ils s'apprênt à présenter un tout nouveau projet surprise,"['il', 'apprent', 'a', 'present', 'tout', 'nouveau', 'projet', 'surpris']",surprise,surprise
+Vous n'allez jamais deviner qui j'ai vu hier,"['n', 'allez', 'jam', 'devin', 'vu', 'hi']",surprise,surprise
+"C'est un mystère, on ne sait pas du tout qui a fait ça","['myster', 'ne', 'sait', 'pas', 'tout', 'a', 'fait', 'ca']",surprise,surprise
+On vous réserve quelques surprise demain,"['reserv', 'quelqu', 'surpris', 'demain']",surprise,surprise
+"Cette absolument innaceptable, quelle horreur !","['cet', 'absolu', 'innacept', 'quel', 'horreur']",disgust,disgust
+"La viande était périmée, elle commançait à moisir","['viand', 'etait', 'perime', 'commanc', 'a', 'mois']",disgust,disgust
+Le meurte de Lady Macduff était une abomination,"['meurt', 'lady', 'macduff', 'etait', 'abomin']",disgust,disgust
+Il y avait même des rats ,"['mem', 'rat']",disgust,sadness
+"On ne peut pas laisser ça comme ça, c'est répugnant","['ne', 'peut', 'pas', 'laiss', 'ca', 'comm', 'ca', 'repugn']",disgust,fear
+Vous devriez avoir honte de vous,"['devr', 'avoir', 'hont']",disgust,sadness
+"Les politiques sont incapables de diriger notre pays et sont corrompus, ça me dégoute ","['le', 'polit', 'incap', 'dirig', 'pay', 'corrompus', 'ca', 'degout']",disgust,disgust
+T'as vu cette photo ? Quelle horreur !,"['vu', 'cet', 'photo', 'quel', 'horreur']",disgust,surprise
+Le racisisme et l'antisémitisme refont surface c'est affolant,"['racis', 'antisemit', 'refont', 'surfac', 'affol']",disgust,fear
+Allez la voir elle serait ravi de vous revoir tous ensemble !,"['allez', 'voir', 'rav', 'revoir', 'tous', 'ensembl']",joy,joy
+Elle était aux anges,"['etait', 'ange']",joy,surprise
+"Je ne sais pas ce qui lui passe par la tête en ce moment, je crois qu'elle ne va pas très bien malheureusement","['ne', 'sais', 'pas', 'pass', 'tet', 'moment', 'crois', 'ne', 'va', 'pas', 'tre', 'bien', 'malheur']",sadness,anger
+Ils sont arrivés plein d'énergie et de bonne humer,"['il', 'arriv', 'plein', 'energ', 'bon', 'hum']",joy,joy
+Merci beaucoup ça me fait très plaisir,"['merc', 'beaucoup', 'ca', 'fait', 'tre', 'plais']",joy,joy
+Je suis très heureux d'être ici aujourd'hui,"['tre', 'heureux', 'etre', 'ici', 'aujourd', 'hui']",joy,joy
+Cela me fait chaud au coeur,"['cel', 'fait', 'chaud', 'coeur']",joy,anger
+Je mourrais d'envie de lui annoncer la bonne nouvelle,"['mourr', 'envi', 'annonc', 'bon', 'nouvel']",joy,joy
+Il hurlait de joie,"['hurl', 'joi']",joy,joy
+Elle était vraiment très inquiète ,"['etait', 'vrai', 'tre', 'inquiet']",fear,sadness
+Chaque animal de passage est voué à une mort certaine,"['chaqu', 'animal', 'passag', 'vou', 'a', 'mort', 'certain']",sadness,surprise
+C'est dans ce désert que la didacture avait installé ses camps de concentration,"['desert', 'didactur', 'install', 'camp', 'concentr']",sadness,sadness
+es centaines d'opposants politiques étaient emprisonnés dans leurs baraquement sommaires,"['centain', 'oppos', 'polit', 'etaient', 'emprison', 'leur', 'baraqu', 'sommair']",sadness,anger
+Les visages aujourd'hui peints sur les murs de La Victoria étaient ceux des victimes de règlements de comptes entre bandes rivales,"['le', 'visag', 'aujourd', 'hui', 'peint', 'le', 'mur', 'victori', 'etaient', 'ceux', 'victim', 'regl', 'compt', 'entre', 'band', 'rival']",sadness,surprise
+Elle était ébahit devant la sitation qui venait de se produire sous ses yeux,"['etait', 'ebah', 'dev', 'sitat', 'ven', 'produir', 'sous', 'yeux']",surprise,surprise
+Tu les as vraiment épaté ,"['le', 'vrai', 'epat']",surprise,surprise
+Elle était étonnée quand je lui ai appris la nouvelle,"['etait', 'etonne', 'quand', 'appris', 'nouvel']",surprise,no_emotion
+Je suis stupéfais de la progression qu'il a eu ces dernières années,"['stupef', 'progress', 'a', 'dernier', 'anne']",surprise,surprise
+Stefano pestait contre les nids de poules qui ravivaient les douleurs de son genou,"['stefano', 'pest', 'contr', 'le', 'nid', 'poul', 'raviv', 'le', 'douleur', 'genou']",anger,anger
+Il appréhendait son retour au pays,"['apprehend', 'retour', 'pay']",fear,surprise
+Sa cupidité est sans fin,"['cupidit', 'san', 'fin']",disgust,fear
+Un chilien sur cinq vivait dans des conditions de pauvreté extrême,"['chilien', 'cinq', 'viv', 'condit', 'pauvret', 'extrem']",sadness,anger
+"Personne ne voulait revoir les images de la Moneda en flammes, la répression, la torture","['person', 'ne', 'voul', 'revoir', 'le', 'imag', 'moned', 'flamm', 'repress', 'tortur']",sadness,anger
+Gabriela avait le sourire pétillant et la parole facile,"['gabriel', 'sourir', 'petill', 'parol', 'facil']",joy,joy
+Tu devrais avoir honte de ton comportement,"['devr', 'avoir', 'hont', 'comport']",disgust,sadness
+"Va-t'en d'ici, je ne veux plus te voir","['va', 'ici', 'ne', 'veux', 'plus', 'voir']",anger,joy
+Tu ne comprends jamais rien tu m'énerves ,"['ne', 'comprend', 'jam', 'rien', 'enerv']",anger,disgust
+J'ai appri la terrible nouvelle ce matin…,"['appri', 'terribl', 'nouvel', 'matin']",sadness,surprise
+Je suis très déçu qu'il n'est pas pu venir ,"['tre', 'decu', 'n', 'pas', 'pu', 'ven']",sadness,fear
+Il ne méritait vraiment pas ça le pauvre,"['ne', 'merit', 'vrai', 'pas', 'ca', 'pauvr']",sadness,fear
+"Je pense que le combat est perdu d'avance, il n'y a plus d'espoir","['pens', 'combat', 'perdu', 'avanc', 'n', 'a', 'plus', 'espoir']",sadness,joy
+"Il était abattu, il n'avait plus la force de se battre","['etait', 'abattu', 'n', 'plus', 'forc', 'battr']",sadness,anger
+"Le pauvre, il a l'air misérable","['pauvr', 'a', 'air', 'miser']",sadness,disgust
+Elle a findu en larmes,"['a', 'findu', 'larm']",sadness,disgust
+J'ai été enchanté de faire votre connaissance,"['ete', 'enchant', 'fair', 'connaiss']",joy,joy
+Merci à tous je suis comblé ,"['merc', 'a', 'tous', 'combl']",joy,joy
+Cet endroit est paradisiaque,"['cet', 'endroit', 'paradisiaqu']",joy,no_emotion
+Ma vie est belle depuis que je t'ai rencontré,"['vi', 'bel', 'depuis', 'rencontr']",joy,surprise
+"Il était optimiste, persuadé qu'il allait réussir","['etait', 'optim', 'persuad', 'allait', 'reuss']",joy,surprise
+L'ambiance était euphorique,"['ambianc', 'etait', 'euphor']",joy,no_emotion
+Je me réjoui d'être dans ce merveilleux endroit,"['rejou', 'etre', 'merveil', 'endroit']",joy,surprise
+Quel plaisir de pouvoir faire du sport sous le soleil,"['quel', 'plais', 'pouvoir', 'fair', 'sport', 'sous', 'soleil']",joy,surprise
+"Il a été pris d'un fou rire, il ne pouvait plus s'arrêter de rigoler","['a', 'ete', 'pris', 'fou', 'rir', 'ne', 'pouv', 'plus', 'arret', 'rigol']",joy,surprise
+Il est vraiment épanoui depuis qu'il a trouvé son nouveau travail,"['vrai', 'epanou', 'depuis', 'a', 'trouv', 'nouveau', 'travail']",joy,surprise
+Tu n'imagines pas comme il a hâte de te revoi,"['n', 'imagin', 'pas', 'comm', 'a', 'hat', 'revoi']",joy,surprise
+"Je ne comprends pas pourquoi une telle violence, c'est incompréhensible","['ne', 'comprend', 'pas', 'pourquoi', 'tel', 'violenc', 'incomprehensibl']",sadness,anger
+C'est absolument répugnant,"['absolu', 'repugn']",disgust,disgust
+"Il avait un goût amer dans la bouche, il ne comprenait pas ce qu'il se passait","['gout', 'amer', 'bouch', 'ne', 'compren', 'pas', 'pass']",disgust,disgust
+ça lui a donné la nausée,"['ca', 'a', 'don', 'nause']",disgust,surprise
+"Il a fait une indigestion alimantaire, il a dû manger quelque chose de mauvais","['a', 'fait', 'indigest', 'alimantair', 'a', 'mang', 'quelqu', 'chos', 'mauv']",disgust,disgust
+Il a subi une véritable humiliation,"['a', 'sub', 'verit', 'humili']",disgust,disgust
+C'était véritablement abject,"['etait', 'verit', 'abject']",disgust,anger
+"Cette scène lui a donner envie de vomir, il n'était pas prêt","['cet', 'scen', 'a', 'don', 'envi', 'vom', 'n', 'etait', 'pas', 'pret']",disgust,surprise
+"C'est obscène, vous n'avez pas honte de faire des choses pareilles ?","['obscen', 'n', 'pas', 'hont', 'fair', 'chos', 'pareil']",disgust,fear
+il étiat hideux ce soir là,"['etiat', 'hideux', 'soir']",disgust,fear
+c'est infâme,['infam'],disgust,anger
+Il était vraiment très anxieux à l'attente de ses résultats,"['etait', 'vrai', 'tre', 'anxieux', 'a', 'attent', 'resultat']",fear,fear
+Il a fait une crise d'angoisse pour la première fois on a du l'amener à l'hopital,"['a', 'fait', 'cris', 'angoiss', 'premier', 'fois', 'a', 'amen', 'a', 'hopital']",fear,surprise
+Il craignait que cela lui arrive également,"['craign', 'cel', 'arriv', 'egal']",fear,joy
+"Tu l'aurais vu au zoo, il avait la phobie des araignées","['vu', 'zoo', 'phob', 'araigne']",fear,disgust
+Il avait l'air agressif et intimidant,"['air', 'agress', 'intimid']",fear,fear
+"L'alarme a sonné à trois heures du matin, tout le monde a du évacuer l'immeuble","['alarm', 'a', 'son', 'a', 'trois', 'heur', 'matin', 'tout', 'mond', 'a', 'evacu', 'immeubl']",fear,surprise
+Les chimpanzés ont semé la terreur dans toute la ville,"['le', 'chimpanz', 'sem', 'terreur', 'tout', 'vill']",fear,anger
+"Il avait la trouille de se jeter, on a du le pousser","['trouill', 'jet', 'a', 'pouss']",fear,surprise
+"N'ais pas peur, tu vas y arriver courage","['n', 'ais', 'pas', 'peur', 'vas', 'arriv', 'courag']",fear,fear
+J'ai des cauchemars dernièrement je dors vraiment très mal,"['cauchemar', 'dernier', 'dor', 'vrai', 'tre', 'mal']",fear,sadness
+"La guerre risque d'arriver jusqu'ici, et le chaos reignera","['guerr', 'risqu', 'arriv', 'jusqu', 'ici', 'chaos', 'reign']",fear,anger
+Il était desespéré et il était prêt à tout pour se venger de la mort de son frère,"['etait', 'desesper', 'etait', 'pret', 'a', 'tout', 'veng', 'mort', 'frer']",anger,sadness
+Pourquoi tant de haine ?,"['pourquoi', 'tant', 'hain']",anger,disgust
+"N'agace pas ton frère, tu sais qu'il est très irritable","['n', 'agac', 'pas', 'frer', 'sais', 'tre', 'irrit']",anger,surprise
+La querelle n'en finissait pas entre les deux jumeaux,"['querel', 'n', 'fin', 'pas', 'entre', 'le', 'deux', 'jumeau']",anger,fear
+Il était habité par la rage de vaincre,"['etait', 'habit', 'rag', 'vaincr']",anger,joy
+On peut lire la fureur dans ses yeux,"['peut', 'lir', 'fureur', 'yeux']",anger,sadness
+La tempête faisait rage,"['tempet', 'fais', 'rag']",anger,surprise
+"Il voulait tabassait le mec qui lui avait fait ça, il y pensait nuit et jour","['voul', 'tabass', 'mec', 'fait', 'ca', 'pens', 'nuit', 'jour']",anger,fear
+"Ils étaient déchainés, plus rien ne pouvait les arrêter","['il', 'etaient', 'dechain', 'plus', 'rien', 'ne', 'pouv', 'le', 'arret']",anger,surprise
+Attention derrière toi !,"['attent', 'derrier']",surprise,fear
+Quelle ne fût pas ma surprise quand je l'ai vu au loin,"['quel', 'ne', 'pas', 'surpris', 'quand', 'vu', 'loin']",surprise,fear
+La qualité est vraiment très bonne alors que ça ne coutait vraiment pas cher,"['qualit', 'vrai', 'tre', 'bon', 'alor', 'ca', 'ne', 'cout', 'vrai', 'pas', 'cher']",surprise,anger
+Venez décourir ce qu'il se passe ce weekend,"['ven', 'decour', 'pass', 'weekend']",surprise,sadness
+Ah Marc vient finalement à la soirée ? Je pensais qu'il ne pouvait pas venir ,"['ah', 'marc', 'vient', 'final', 'a', 'soire', 'pens', 'ne', 'pouv', 'pas', 'ven']",surprise,surprise
+"C'est vraiment incroyable, quel spectacle !","['vrai', 'incroi', 'quel', 'spectacl']",surprise,surprise
