@@ -6,3 +6,4 @@ sklearn
 gensim
 imblearn
 num2words
+pydot

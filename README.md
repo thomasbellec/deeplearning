@@ -28,3 +28,35 @@ Ce projet se décompose de la manière suivante :
     - modeles : dossier regroupant les fichiers de sauvegarde des apprentissages et vectorisations
     - test_set.xlsx : dataset de test
 - requirements.txt : fichier contenant les modules nécessaires au projet
+
+### Installation
+1. Installer le package `virtualenv` (attention il doit être en Python 3.6):
+
+`pip3 install virtualenv` ou `pip install virtualenv`
+
+2. Allez dans le répertoire de votre choix et là, créez un environnement virtuel python dans ledit répertoire et activez-le :
+
+`cd ./your_directory`
+
+`virtualenv venv`
+
+Linux / MacOS: `source venv/bin/activate`
+
+Windows: `.\venv\Scripts\activate.bat`
+
+3. Allez dans le dossier venv et clonez le projet github :
+
+`cd ./venv`
+
+`git clone git@github.com:thomasbellec/deeplearning.git`
+
+4. Pour installer les requirements :
+
+`cd ./deeplearning`
+
+`pip3 install -r requirements.txt or pip install -r requirements.txt`
+
+Ainsi qu'une bibliothèque un peu spécifique : 
+
+`pip install git+https://github.com/ClaudeCoulombe/FrenchLefffLemmatizer.git`
+
