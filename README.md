@@ -6,7 +6,7 @@ _Groupe 28 :_
 
 ### Objectif
 
-Ce projet a pour but de présenter une étude d'analyse de sentiments en français.
+Ce projet a pour but de présenter une étude d'analyse de sentiments de tweets en français.
 Nous nous servons ici de deux datasets : FEEL et EMOTION IN TEXT.
 
 ### Structure
@@ -14,8 +14,7 @@ Nous nous servons ici de deux datasets : FEEL et EMOTION IN TEXT.
 Ce projet se décompose de la manière suivante : 
 - code_projet
     - data_science 
-        - autre_dataset.ipynb : jupyter notebook permettant de tester des modèles sur le dataset EMOTION IN TEXT.
-        - Dataset_Feel.ipynb : jupyter notebook permettant de tester des modèles sur le dataset FEEL.
+        - Projet Deep Learning.ipynb : jupyter notebook contenant le travail côté Deep Learning
         - evaluate.py : script permettant d'évaluer le modèle choisi dans config.py sur le dataset de test
         - learning.py : script permettant l'apprentissage d'un modèle
         - predict.py : script permettant la prédiction d'une phrase à partir d'un modèle appris
