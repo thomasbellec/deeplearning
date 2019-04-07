@@ -19,6 +19,7 @@ Ce projet se décompose de la manière suivante :
         - learning.py : script permettant l'apprentissage d'un modèle
         - predict.py : script permettant la prédiction d'une phrase à partir d'un modèle appris
         - preprocessing.py : ensemble de traitement NLP permettant de traiter nos phrases
+        - read_feel.ipynb : jupyter notebook pour l'analyse du dataset FEEL
         - utils_project.py : ensemble de fonctions utiles pour le traitement de nos données
     - config.py : fichier de configuration contenant les variables globales du projet
 - data
