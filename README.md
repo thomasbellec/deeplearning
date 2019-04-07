@@ -25,7 +25,6 @@ Ce projet se décompose de la manière suivante :
 - data
     - Feel-fr : ensemble de fichiers contenant en particulier le dataset FEEL
     - kaggle-traduction : ensemble de fichiers contenant en particulier le dataset EMOTION IN TEXT traduit
-    - modeles : dossier regroupant les fichiers de sauvegarde des apprentissages et vectorisations
     - test_set.xlsx : dataset de test
 - requirements.txt : fichier contenant les modules nécessaires au projet
 
